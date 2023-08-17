@@ -357,7 +357,7 @@ def main():
 
     # frame = ttk.Frame(app)
     frame = customtkinter.CTkFrame(master=app)
-    frame.grid(row=0, column=0, padx=20, pady=33, sticky="nsew")
+    frame.grid(row=0, column=0, padx=20, pady=33,ipady=10, sticky="nsew")
 
     for i in range(4):
         frame.grid_rowconfigure(i, weight=1)
