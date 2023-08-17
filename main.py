@@ -353,6 +353,7 @@ def main():
 
     app = customtkinter.CTk()
     app.title("Subtitle Merger")
+    app.resizable(False, True)
 
     # frame = ttk.Frame(app)
     frame = customtkinter.CTkFrame(master=app)
