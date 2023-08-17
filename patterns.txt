@@ -1,0 +1,13 @@
+s(\d+)e(\d+)| s{0:02d}e{1:02d}                                # s01e02
+Season\s*(\d+)\s*Episode\s*(\d+)| season {0} episode {1:02d}  # Season 1 Episode 02
+Season(\d+)Episode(\d+)| Season{0}Episode{1}                  # Season1Episode02
+S(\d+)\s*Part(\d+)| S{0} Part{1}                              # S1 Part2
+S(\d+)E(\d+)| S{0:02d}E{1:02d}                                # S01E02
+(\d+)\s+x\s+(\d+)| {0} x {1:02d}                              # 1 x 3
+s(\d+)e(\d+)| s{0}e{1:02d}                                    # s1e02
+season\s*(\d+)e(\d+)| season {0}e{1}                          # season 1e02
+(\d+)x(\d+)| {0}x{1:02d}                                      # 1x3
+Season_(\d+)_Episode_(\d+)| Season_{0}_Episode_{1}            # Season_1_Episode_9
+S(\d+)\s*E(\d+)| S{0} E{1}                                    # S1 E1
+s(\d+)\s*e(\d+)| s{0} e{1}                                    # s1 e1
+Episode\s*(\d+)| Episode{1}
