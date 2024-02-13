@@ -76,7 +76,7 @@ python main.py
 I'm actively working on expanding the customization options, and in the future, you can look forward to more features being added.
 If you have any specific feature requests or suggestions, feel free to reach out.
 
-<a href="https://ko-fi.com/amin_salah" rel="nofollow"><img height="36" style="height: 36px; max-width: 100%;" src="https://camo.githubusercontent.com/6d394442bad846f705d9f455fa612cc5c8878c1837338da05b713de22a4f2cda/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669312e706e673f763d32" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K5OBFG2)
 
 Your support and feedback are greatly appreciated and will help shape the future development of this tool.
 
